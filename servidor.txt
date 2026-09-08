@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://residence-strategy-max-ftp.trycloudflare.com
