@@ -1,1 +1,1 @@
-https://wifi-stops-vote-arab.trycloudflare.com
+https://api.trycloudflare.com
